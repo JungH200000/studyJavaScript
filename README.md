@@ -4,7 +4,3 @@
 
 ### Part 1: JavaScript 기초
 
-
-
-## 🚀 미니 프로젝트 (Mini Projects)
-
