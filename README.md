@@ -4,8 +4,12 @@
 
 ### Part 1: JavaScript Basic
 
-/basicJavaScript
+/basic-javascript/
 
 ### part 2: JavaScript Key Concepts
 
-/keyConceptsJavaScript
+/key-concepts-javascript/
+
+### part 3: Programming and Data in JavaScript
+
+/programming-and-data-javascript/
