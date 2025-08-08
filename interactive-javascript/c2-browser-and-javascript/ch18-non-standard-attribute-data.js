@@ -35,3 +35,10 @@ for (let btn of dataBtns) {
     dataFields[2].dataset.status = status;
   };
 }
+
+/**
+ * ### 최종 요약
+ *
+ * 비표준 속성을 활용해야 한다면, 미래의 표준과 충돌할 위험이 없는
+ * "`data-*` 속성과 `dataset` 프로퍼티를 사용하는 것이 가장 안전하고 확실한 방법"입니다.
+ */
